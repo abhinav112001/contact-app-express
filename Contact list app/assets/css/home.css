@@ -1,0 +1,25 @@
+
+body{
+    background-color: rgb(161, 255, 255);
+    font-family: sans-serif;
+}
+.container{
+    
+    width: 50%;
+}
+.page-heading{
+    text-align: center;
+    margin-top: 20px;
+    color: blue;
+}
+ul{
+    list-style: none;
+}
+
+.list-item{
+    background-color: #f7d3a4;
+    display: flex;
+    justify-content: space-between;
+    padding: 7px;
+    border: 2px solid black;
+}
